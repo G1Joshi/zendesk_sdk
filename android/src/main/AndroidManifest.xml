@@ -1,0 +1,6 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+  package="com.example.zendesk_sdk">
+  <application
+        android:theme="@style/Theme.AppCompat">
+  </application>
+</manifest>
